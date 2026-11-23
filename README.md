@@ -16,6 +16,6 @@
 
 ---
 
-📫 **Reach me:** https://www.linkedin.com/in/ian-darwisy-456b07338/ • iandrrwisyyyy@gmail.com
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/ian-darwisy-456b07338/) • [Email](mailto:iandrrwisyyyy@gmail.com)
 
 ⭐ *Currently looking for internship / graduate opportunities in Digital Forensics or Cybersecurity fields.*
