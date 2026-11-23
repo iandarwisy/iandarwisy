@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hi, I'm Ian 👋
 
-<!--
-**iandarwisy/iandarwisy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Aspiring Security Engineer | Final Year CS Student @ International Islamic University of Malaysia
 
-Here are some ideas to get you started:
+**Currently building:** [AI-Driven DevSecOps Pipeline](https://github.com/YOUR_USERNAME/ai-devsecops-pipeline) — end-to-end security automation with AI-assisted remediation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests:** DevSecOps • Cloud Security • Digital Forensics • Red Teaming • AI for Security • Zero Trust
+
+**Tech Stack:**
+
+*Security & DevOps:*
+`Python` `GitHub Actions` `CodeQL` `Semgrep` `Dependabot` `Groq API` `Docker`
+
+*Web Development:*
+`React` `Firebase` `Tailwind CSS`
+
+---
+
+📫 **Reach me:** https://www.linkedin.com/in/ian-darwisy-456b07338/ • iandrrwisyyyy@gmail.com
+
+⭐ *Currently looking for internship / graduate opportunities in Digital Forensics or Cybersecurity fields.*
